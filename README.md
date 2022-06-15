@@ -22,7 +22,7 @@
   
 <div align="center">
 
-# [`Windows-PrivEsc`](https://github.com/Anlominus/Windows-PrivEsc)
+# [`Privilege-Escalation`](https://github.com/Anlominus/Privilege-Escalation) ~> [`Windows-PrivEsc`](https://github.com/Anlominus/Windows-PrivEsc)
 [**`Tools`**](https://github.com/Anlominus/Windows-PrivEsc/tree/main/GiTools#linux-privesc--gitools) | [**`Cheat Sheets`**](https://github.com/Anlominus/Windows-PrivEsc/tree/main/Cheat%20Sheets#linux-privesc--cheat-sheets) | [`Notes`](./Notes)  | [`Checklists`](./Checklists)
   
 </div>
