@@ -42,7 +42,7 @@
 ---
 
 # Torrents
-- WinPE 10-8 Sergei Strelec (x86+x64) 2021.07.21 {CracksHash} | [Magnet](magnet:?xt=urn:btih:3F225899D903E3A99C7FA66E97E3F79DAEAAA44A&dn=%5Bibit.to%5DWinPE+10-8+Sergei+Strelec+%28x86%2Bx64%29+2021.07.21+%7BCracksHash%7D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce)
+- [WinPE 10-8 Sergei Strelec (x86+x64) 2021.07.21 {CracksHash}](https://ibit.to/torrent/WinPE-10-8-Sergei-Strelec-x86-x64-2021-07-21-CracksHash--EfsAtoP/) 
 
 - ![image](https://user-images.githubusercontent.com/51442719/177661306-e0928f59-bbb4-44cc-8fb6-36bc8f7f1f33.png)
 
