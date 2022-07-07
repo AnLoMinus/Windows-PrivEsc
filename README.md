@@ -41,4 +41,6 @@
 
 ---
 
-# Torrents
+## [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+- This cheat sheet contains common enumeration and attack methods for Windows Active Directory.
+
