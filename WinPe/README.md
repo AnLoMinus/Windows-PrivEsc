@@ -6,17 +6,17 @@ Bootable disk Windows 10 and 8 PE – for maintenance of computers, hard disks a
 
 Composition:
 
-WinPE10x86
+- WinPE10x86
 
-WinPE10x64
+- WinPE10x64
 
-WinPE8x86
+- WinPE8x86
 
-WinPE8x86(Native)
+- WinPE8x86(Native)
 
-X86 Image contains
+- X86 Image contains
 
-Backup and restore
+# Backup and restore
 
 Acronis True Image 2017 20.0 Build 8058
 
@@ -52,7 +52,7 @@ Disk2vhd 2.01
 
 Vhd2disk v0.2
 
-Hard disk
+# Hard disk
 
 Acronis Disk Director 12.0.3297
 
@@ -86,7 +86,7 @@ Diskpart GUI Micro 1.3
 
 Active Disk Editor 7.0.15
 
-Diagnostics
+# Diagnostics
 
 HD Tune Pro 5.70
 
@@ -128,7 +128,7 @@ Keyboard Test Utility 1.4.0
 
 IsMyLcdOK 3.03
 
-Network programs
+# Network programs
 
 Opera 46
 
@@ -154,7 +154,7 @@ PuTTY 0.70
 
 Advanced IP Scanner 2.5 Build 3567
 
-Other programs
+# Other programs
 
 Active Password Changer 8.0.7
 
@@ -222,11 +222,11 @@ Recover Keys 10.0.4.201
 
 NirLauncher 1.20.34
 
-Remote Registry Editor
+# Remote Registry Editor
 
 Windows Recovery Environment (WinPE 10)
 
-Data Recovery
+# Data Recovery
 
 R-Studio 8.5 Build 170237
 
@@ -252,9 +252,9 @@ Ontrack EasyRecovery 12.0.0.2
 
  
 
-X64 Image contains:
+ X64 Image contains:
 
-Backup and restore
+# Backup and restore
 
 Acronis True Image 2017 20.0 Build 8058
 
@@ -290,7 +290,7 @@ Disk2vhd 2.01
 
 Vhd2disk v0.2
 
-Hard disk
+# Hard disk
 
 Acronis Disk Director 12.0.3297
 
@@ -324,7 +324,7 @@ Diskpart GUI Micro 1.3
 
 Active Disk Editor 7.0.15
 
-Diagnostics
+# Diagnostics
 
 HD Tune Pro 5.70
 
@@ -462,7 +462,7 @@ Remote Registry Editor
 
 Windows Recovery Environment (WinPE 10)
 
-Data Recovery
+# Data Recovery
 
 R-Studio 8.5 Build 170237
 
@@ -488,7 +488,7 @@ Ontrack EasyRecovery 12.0.0.2
 
  
 
-Whats New:
+# Whats New:
 
 Corrections and improvements
 
