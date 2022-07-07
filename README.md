@@ -50,3 +50,7 @@
 - This repository contains a general methodology in the Active Directory environment. 
 - It is offered with a selection of quick commands from the most efficient tools based on Powershell, C, .Net 3.5 and .Net 4.5.
 
+## [Exchange-AD-Privesc](https://github.com/gdedrouas/Exchange-AD-Privesc)
+- This repository provides a few techniques and scripts regarding the impact of Microsoft Exchange deployment on Active Directory security. 
+- This is a side project of AD-Control-Paths, an AD permissions auditing project to which I recently added some Exchange-related modules.
+
