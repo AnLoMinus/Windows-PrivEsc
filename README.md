@@ -57,3 +57,11 @@
 - This repository provides a few techniques and scripts regarding the impact of Microsoft Exchange deployment on Active Directory security. 
 - This is a side project of AD-Control-Paths, an AD permissions auditing project to which I recently added some Exchange-related modules.
 
+---
+
+# Tools
+
+## [ActiveDirectoryAttackTool](https://github.com/The-Viper-One/ActiveDirectoryAttackTool) 
+- ADAT is a small tool used to assist CTF players and Penetration testers with easy commands to run against an Active Directory Domain Controller. 
+- This tool is is best utilized using a set of known credentials against the host.
+
