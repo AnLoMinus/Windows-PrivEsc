@@ -89,4 +89,6 @@
 ## [Winpayloads](https://github.com/nccgroup) Undetectable Windows Payload Generation with extras Running on Python2.7
 > ![image](https://user-images.githubusercontent.com/51442719/179118345-b5ce3947-f432-4f8f-a155-75757cdb2c0b.png)
 
+## [RedSnarf](https://github.com/nccgroup/redsnarf) is a pen-testing / red-teaming tool for Windows environments
+> - ### RedSnarf is a pen-testing / red-teaming tool by Ed Williams for retrieving hashes and credentials from Windows workstations, servers and domain controllers using OpSec Safe Techniques.
 
