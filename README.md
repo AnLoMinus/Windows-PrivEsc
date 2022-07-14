@@ -86,3 +86,7 @@
 > - Patched Meterpreter Stage Support
 > - Blocked powershell.exe Bypass
 
+## [Winpayloads](https://github.com/nccgroup) Undetectable Windows Payload Generation with extras Running on Python2.7
+> ![image](https://user-images.githubusercontent.com/51442719/179118345-b5ce3947-f432-4f8f-a155-75757cdb2c0b.png)
+
+
