@@ -75,3 +75,14 @@
 - Phant0m targets the Event Log service and finding the process responsible for the Event Log service, it detects and kills the threads responsible for the Event Log service. 
 - Thus, while the Event Log service appears to be running in the system (because Phant0m didn't kill process), it does not actually run (because Phant0m killed threads) and the system does not collect logs.
 
+## [SpookFlare](https://github.com/hlldz/SpookFlare) 
+> ![image](https://user-images.githubusercontent.com/51442719/179117084-82a15257-492d-4c0a-9d7a-4f86efcc6ce2.png)
+> - ### Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.
+> - SpookFlare has a different perspective to bypass security measures and it gives you the opportunity to bypass the endpoint countermeasures at the client-side detection and network-side detection. <br> SpookFlare is a loader/dropper generator for Meterpreter, Empire, Koadic etc. <br> SpookFlare has obfuscation, encoding, run-time code compilation and character substitution features. <br> So you can bypass the countermeasures of the target systems like a boss until they "learn" the technique and behavior of SpookFlare payloads. <br> <br>
+> - Obfuscation
+> - Encoding
+> - Run-time Code Compiling
+> - Character Substitution
+> - Patched Meterpreter Stage Support
+> - Blocked powershell.exe Bypass
+
