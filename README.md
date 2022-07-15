@@ -92,3 +92,5 @@
 ## [RedSnarf](https://github.com/nccgroup/redsnarf) is a pen-testing / red-teaming tool for Windows environments
 > - ### RedSnarf is a pen-testing / red-teaming tool by Ed Williams for retrieving hashes and credentials from Windows workstations, servers and domain controllers using OpSec Safe Techniques.
 
+## [BloodyAD](https://github.com/CravateRouge/bloodyAD) Framework
+> - ### BloodyAD is an Active Directory Privilege Escalation Framework, it can be used manually using bloodyAD.py or automatically by combining pathgen.py and autobloody.py.
