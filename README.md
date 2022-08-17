@@ -112,4 +112,6 @@
 
 ## [Ghostpack-CompiledBinaries](https://github.com/r3motecontrol/Ghostpack-CompiledBinaries) Compiled Binaries for Ghostpack (.NET v4.0)
 
+## [SharpCollection](https://github.com/Flangvik/SharpCollection) Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
+
 
