@@ -114,4 +114,6 @@
 
 ## [SharpCollection](https://github.com/Flangvik/SharpCollection) Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 
+## [nishang](https://github.com/samratashok/nishang) Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
+
 
