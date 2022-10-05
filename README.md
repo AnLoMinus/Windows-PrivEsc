@@ -53,6 +53,22 @@
 
 # Tools
 
+## [redteam](https://github.com/d0nkeys/redteam) | Red Team Scripts by d0nkeys (ex SnadoTeam)
+### Categories
+- code-execution
+- credentials
+- detection
+- handlers
+- keyloggers
+- lateral-movement
+- persistence
+- privilege-escalation
+- scanners
+- shells
+- situational-awareness
+- stealth
+
+
 ## [ActiveDirectoryAttackTool](https://github.com/The-Viper-One/ActiveDirectoryAttackTool) 
 - ADAT is a small tool used to assist CTF players and Penetration testers with easy commands to run against an Active Directory Domain Controller. 
 - This tool is is best utilized using a set of known credentials against the host.
