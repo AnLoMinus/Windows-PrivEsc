@@ -132,4 +132,28 @@
 
 ## [nishang](https://github.com/samratashok/nishang) Nishang - Offensive PowerShell for red team, penetration testing and offensive security.
 
+## [Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
+#### The ultimate WinRM shell for hacking/pentesting
 
+![image](https://user-images.githubusercontent.com/51442719/198641759-054c2b9b-23c1-4d6f-96fc-29716c26dad1.png)
+
+##### Features
+ - Compatible to Linux and Windows client systems
+ - Load in memory Powershell scripts
+ - Load in memory dll files bypassing some AVs
+ - Load in memory C# (C Sharp) assemblies bypassing some AVs
+ - Load x64 payloads generated with awesome [donut] technique
+ - Dynamic AMSI Bypass to avoid AV signatures
+ - Pass-the-hash support
+ - Kerberos auth support
+ - SSL and certificates support
+ - Upload and download files showing progress bar
+ - List remote machine services without privileges
+ - Command History
+ - WinRM command completion
+ - Local files/directories completion
+ - Remote path (files/directories) completion (can be disabled optionally)
+ - Colorization on prompt and output messages (can be disabled optionally)
+ - Optional logging feature
+ - Docker support (prebuilt images available at [Dockerhub])
+ - Trap capturing to avoid accidental shell exit on Ctrl+C
