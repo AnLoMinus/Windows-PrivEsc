@@ -53,6 +53,18 @@
 
 # Tools
 
+## [PrintSpoofer.exe](https://github.com/dievus/printspoofer)
+### PrintSpoofer exploit that can be used to escalate service user permissions on Windows Server 2016, Server 2019, and Windows 10.
+
+To escalate privileges, the service account must have SeImpersonate privileges. To execute:
+```cmd
+PrintSpoofer.exe -i -c cmd
+```
+With appropriate privileges this should grant system user shell access.
+
+
+
+
 ## [redteam](https://github.com/d0nkeys/redteam) | Red Team Scripts by d0nkeys (ex SnadoTeam)
 ### Categories
 - code-execution
